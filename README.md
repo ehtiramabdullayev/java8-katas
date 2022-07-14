@@ -1,9 +1,10 @@
 java8-functional-Katas
 ======================
-```
+
 Originally forked from https://github.com/zupzup/java8-functional-katas 
 but needed to add my separate repo since the owner didn't review my PR
-```
+-----
+
 Some Katas for functional programming in Java 8 for a coding dojo (loosely based on http://reactive-extensions.github.io/learnrx/ and converted to Java)
 
 Just read the instructions in the Kata and try to finish them. You can also use TDD if you want - there are dummy tests for all Katas.
