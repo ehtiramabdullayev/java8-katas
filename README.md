@@ -1,7 +1,7 @@
 java8-functional-Katas
 ======================
 
-Originally forked from https://github.com/zupzup/java8-functional-katas but needed to add to my separate repo since the owner didn't review my PR
+Originally forked from https://github.com/zupzup/java8-functional-katas but needed to move to my separate repo since the owner didn't review my PR
 
 -----
 
