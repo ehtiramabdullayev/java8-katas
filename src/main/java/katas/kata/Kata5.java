@@ -13,7 +13,11 @@ import java.util.List;
 public class Kata5 {
     public static Double execute() {
         List<Movie> movies = DataUtil.getMovies();
+        return movies
+                .stream()
+                .map(Movie::getRating)
+                .reduce(Double::max)
+                .orElse(0.0d);
 
-        return 3.0;
     }
 }
