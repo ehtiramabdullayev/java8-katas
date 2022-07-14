@@ -1,8 +1,8 @@
 java8-functional-Katas
 ======================
 
-Originally forked from https://github.com/zupzup/java8-functional-katas 
-but needed to add my separate repo since the owner didn't review my PR
+Originally forked from https://github.com/zupzup/java8-functional-katas but needed to add my separate repo since the owner didn't review my PR
+
 -----
 
 Some Katas for functional programming in Java 8 for a coding dojo (loosely based on http://reactive-extensions.github.io/learnrx/ and converted to Java)
